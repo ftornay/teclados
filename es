@@ -40,6 +40,7 @@ xkb_symbols "es_pro" {
     include "es(basic)"
     name[Group1]="Spanish (para programadores)";
 
+    key <AE05>  { [          5, percent, asciicircum, brokenbar ] };
     key <AD11>	{ [ bracketleft, bracketright, dead_circumflex, dead_grave ] };
     key <AD12>	{ [ plus,   asterisk, dead_grave,  dead_macron ]	};
     key <AC11>	{ [dead_acute, dead_diaeresis, braceleft,   braceright ] };
