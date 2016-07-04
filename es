@@ -42,6 +42,7 @@ xkb_symbols "es_pro" {
 
     key <AE05>  { [          5, percent, grave, onehalf ] };
     key <AE06>	{ [         6,  ampersand, asciicircum,  fiveeighths ]	};
+    key <AC10>	{ [    ntilde, Ntilde, dead_tilde, dead_doubleacute ]	};
     key <AD11>	{ [ bracketleft, bracketright, dead_circumflex, dead_grave ] };
     key <AD12>	{ [ plus,   asterisk, dead_grave,  dead_macron ]	};
     key <AC11>	{ [dead_acute, dead_diaeresis, braceleft,   braceright ] };
