@@ -235,7 +235,7 @@ xkb_symbols "phonetic2" {
     key	<AC11> {	[      apostrophe,	  quotedbl	]	};
     key	<LSGT> {	[	      bar,	 brokenbar	]	};
 
-    key	<TLDE> {	[  Cyrillic_shcha,  Cyrillic_SHCHA	]	};
+    key	<TLDE> {	[  Cyrillic_shcha,  Cyrillic_SHCHA, backslash]	};
     key	<LatQ> {	[     Cyrillic_ya,     Cyrillic_YA	]	};
     key	<LatZ> {	[     Cyrillic_ze,     Cyrillic_ZE	]	};
     key	<LatS> {	[     Cyrillic_es,     Cyrillic_ES	]	};
