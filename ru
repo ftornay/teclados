@@ -233,7 +233,7 @@ xkb_symbols "phonetic2" {
     key	<AB08> {	[	    comma,	      less	]	};
     key	<AC10> {	[	semicolon,	     colon	]	};
     key	<AC11> {	[      apostrophe,	  quotedbl	]	};
-    key	<LSGT> {	[	      bar,	 brokenbar	]	};
+    key	<LSGT> {	[	      bar,	  equal 	]	};
 
     key	<TLDE> {	[  Cyrillic_shcha,  Cyrillic_SHCHA, backslash]	};
     key	<LatQ> {	[     Cyrillic_ya,     Cyrillic_YA	]	};
