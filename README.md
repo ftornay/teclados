@@ -13,3 +13,8 @@ sudo cp es /usr/share/X11/xkb/symbols
 sudo cp ru /usr/share/X11/xkb/symbols
 sudo cp pc /usr/share/X11/xkb/symbols
 sudo cp evdev.xml /usr/share/X11/xkb/rules
+
+ACTUALIZACION: He añadido un archivo de configuración de teclado que activa
+la combinación de teclas shift+alt izquierdo como forma de alternar entre los dos teclados. El archivo se llama 10-custom-kbd.conf
+Hay que copiarlo al directorio /etc/X11/xorg.conf.d
+Probablemente haya que crear ese directorio
