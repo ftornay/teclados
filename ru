@@ -220,7 +220,7 @@ xkb_symbols "phonetic2" {
     key <AE02> {        [               2,              at, minus    ]       };
     key <AE03> {        [               3,      numbersign, plus     ]       };
     key <AE04> {        [               4,          dollar, asciitilde    ]       };
-    key <AE05> {        [               5,         percent      ]       };
+    key <AE05> {        [               5,         percent, question      ]       };
     key <AE06> {        [               6,     asciicircum      ]       };
     key <AE07> {        [               7,       ampersand      ]       };
     key	<AE08> {	[		8,        asterisk	]	};
